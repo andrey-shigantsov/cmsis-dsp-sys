@@ -4,7 +4,7 @@ rust bindings for the prebuilt cmsis-dsp math
 
 ## prereqs
 
-Currently only requires `unzip` and `curl` cli commands. Happy to take prs to use pure rust instead. Downloads the cmsis math pack file during build.
+None. Downloads the cmsis math pack file during build.
 
 ## usage
 
